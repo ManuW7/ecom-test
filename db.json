@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Смарт-часы X100",
+      "price": 7490,
+      "category": "Гаджеты",
+      "image": "https://picsum.photos/300/200?random=1",
+      "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+    },
+    {
+      "id": 2,
+      "title": "Беспроводные наушники AirSound Pro",
+      "price": 5990,
+      "category": "Аудио",
+      "image": "https://picsum.photos/300/200?random=2",
+      "description": "Активное шумоподавление и до 30 часов работы"
+    },
+    {
+      "id": 3,
+      "title": "Фитнес-браслет FitTrack S2",
+      "price": 3490,
+      "category": "Гаджеты",
+      "image": "https://picsum.photos/300/200?random=3",
+      "description": "Отслеживание сна, пульса и активности"
+    },
+    {
+      "id": 4,
+      "title": "Портативная колонка BoomMini",
+      "price": 4290,
+      "category": "Аудио",
+      "image": "https://picsum.photos/300/200?random=4",
+      "description": "Компактная Bluetooth-колонка с мощным басом"
+    },
+    {
+      "id": 5,
+      "title": "Механическая клавиатура KeyMaster K87",
+      "price": 8990,
+      "category": "Компьютеры",
+      "image": "https://picsum.photos/300/200?random=5",
+      "description": "RGB-подсветка, синие переключатели, компактный формат"
+    },
+    {
+      "id": 6,
+      "title": "Игровая мышь Falcon X",
+      "price": 3990,
+      "category": "Компьютеры",
+      "image": "https://picsum.photos/300/200?random=6",
+      "description": "16000 DPI, программируемые кнопки"
+    },
+    {
+      "id": 7,
+      "title": "Внешний SSD DriveGo 1TB",
+      "price": 10990,
+      "category": "Накопители",
+      "image": "https://picsum.photos/300/200?random=7",
+      "description": "Скорость до 1050 МБ/с, USB-C"
+    },
+    {
+      "id": 8,
+      "title": "Монитор Vision 27Q",
+      "price": 18990,
+      "category": "Компьютеры",
+      "image": "https://picsum.photos/300/200?random=8",
+      "description": "27 дюймов, QHD, частота обновления 144 Гц"
+    },
+    {
+      "id": 9,
+      "title": "Умная лампа SmartLight A60",
+      "price": 1990,
+      "category": "Умный дом",
+      "image": "https://picsum.photos/300/200?random=9",
+      "description": "Управление через приложение и голосовых ассистентов"
+    },
+    {
+      "id": 10,
+      "title": "Power Bank ChargeMax 20000",
+      "price": 2590,
+      "category": "Аксессуары",
+      "image": "https://picsum.photos/300/200?random=10",
+      "description": "Быстрая зарядка и ёмкость 20000 мА·ч"
+    }
+  ]
+}

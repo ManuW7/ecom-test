@@ -1,0 +1,40 @@
+.productModal {
+  position: fixed;
+  background-color: rgba(68, 67, 67, 0.788);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-family: "NTSomic";
+}
+
+.productModal .modalContent {
+  padding: 50px 40px;
+  background-color: white;
+  height: 95%;
+  width: 65%;
+  margin-right: 50px;
+  border-radius: 25px;
+  display: flex;
+}
+
+.modalContent img {
+  height: 100%;
+  max-width: 450px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+.modalContent .productInfo {
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.modalContent .productInfo h3 {
+  font-size: 30px;
+}

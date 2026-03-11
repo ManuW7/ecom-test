@@ -1,12 +1,18 @@
+import type { Product } from "../assets/data";
 import "./ProductCard.css";
 
-function ProductCard() {
+interface ProductCardProps {
+  product: Product;
+  setChosenItem: React.Dispatch<React.SetStateAction<Product | null>>;
+}
+
+function ProductCard({ product, setChosenItem }: ProductCardProps) {
   return (
-    <div className="productCard">
-      <img src="src/assets/Images/test-image1.jpg" alt="" />
-      <h4>Кручёный зефир Самокат, с начинкой клюква </h4>
+    <div className="productCard" onClick={() => setChosenItem(product)}>
+      <img src={product.image} alt={product.title} />
+      <h4>{product.title}</h4>
       <div className="priceTag">
-        <p>200 ₽</p>
+        <p>{product.price} ₽</p>
       </div>
     </div>
   );
