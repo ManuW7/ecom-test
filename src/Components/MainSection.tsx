@@ -14,6 +14,17 @@ function MainSection() {
       .then((data) => setProducts(data));
   }, []);
 
+  useEffect(() => {
+    if (chosenProduct) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "auto";
+    }
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, [chosenProduct]);
+
   return (
     <main>
       <div className="productsContainer">

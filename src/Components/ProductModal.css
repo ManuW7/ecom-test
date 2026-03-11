@@ -33,8 +33,44 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  justify-content: space-between;
 }
 
 .modalContent .productInfo h3 {
   font-size: 30px;
+}
+
+.modalContent .productInfo p {
+  font-size: 15px;
+  margin-top: 50px;
+}
+
+.modalContent .productInfo .buyButton {
+  background-color: var(--pink);
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 0;
+  border: 2px solid transparent;
+}
+
+.modalContent .exitButton {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalContent .buyButton:hover {
+  background-color: white;
+  border: 2px solid var(--pink);
+  color: var(--pink);
+  cursor: pointer;
 }

@@ -19,6 +19,10 @@
   font-display: swap;
 }
 
+:root {
+  --pink: #ff335f;
+}
+
 * {
   padding: 0;
   margin: 0;
