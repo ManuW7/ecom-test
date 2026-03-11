@@ -1,0 +1,36 @@
+.productCard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "NTSomic";
+}
+
+.productCard:hover {
+  cursor: pointer;
+}
+
+.productCard h4 {
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.productCard img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+.productCard .priceTag {
+  background-color: pink;
+  display: flex;
+  max-width: 75px;
+  padding: 5px 10px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.productCard .priceTag p {
+  font-weight: 500px;
+}

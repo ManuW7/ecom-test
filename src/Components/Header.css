@@ -1,0 +1,78 @@
+:root {
+  --light-gray: #e4e4e4;
+}
+
+header label {
+  border-radius: 100px;
+  padding: 0 15px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  background-color: var(--light-gray);
+  border: 2px solid transparent;
+  max-width: 800px;
+}
+
+header label:hover {
+  cursor: text;
+}
+
+header label:focus-within {
+  border-color: black;
+  background-color: white;
+}
+
+header {
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  background-color: white;
+  border-radius: 0 0 50px 50px;
+}
+
+header label input {
+  margin-left: 5px;
+  padding: 10px;
+  font-size: 15px;
+  font-family: "NTSomic", sans-serif;
+  font-weight: 400;
+  border: none;
+  outline: none;
+  width: 100%;
+  background-color: var(--light-gray);
+  color: black;
+}
+
+header label:focus-within input {
+  background-color: white;
+}
+
+header label button {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+}
+
+header label button svg {
+  display: block;
+}
+
+header label button:hover {
+  cursor: pointer;
+}
+
+header label button.visible {
+  display: flex;
+}
+
+header label button.invisible {
+  display: none;
+}
