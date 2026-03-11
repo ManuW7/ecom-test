@@ -4,7 +4,11 @@ import { useEffect, useState } from "react";
 import type { Product } from "../assets/data";
 import ProductModal from "./ProductModal";
 
-function MainSection() {
+interface MainSectionProps {
+  searchQuery: string;
+}
+
+function MainSection({ searchQuery }: MainSectionProps) {
   const [products, setProducts] = useState<Product[]>([]);
   const [chosenProduct, setChosenProduct] = useState<Product | null>(null);
 
@@ -25,10 +29,14 @@ function MainSection() {
     };
   }, [chosenProduct]);
 
+  const currentProducts = products.filter((product) =>
+    product.title.toLowerCase().includes(searchQuery.toLowerCase()),
+  );
+
   return (
     <main>
       <div className="productsContainer">
-        {products.map((product) => (
+        {currentProducts.map((product) => (
           <ProductCard
             key={product.id}
             product={product}

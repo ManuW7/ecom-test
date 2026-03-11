@@ -23,7 +23,8 @@
 }
 
 .productCard .priceTag {
-  background-color: pink;
+  background-color: var(--pink);
+  color: white;
   display: flex;
   max-width: 100px;
   padding: 5px 10px;

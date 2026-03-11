@@ -1,8 +1,12 @@
-import { useRef, useState } from "react";
+import { useRef } from "react";
 import "./Header.css";
 
-function Header() {
-  const [searchQuery, setSearchQuery] = useState("");
+interface HeaderProps {
+  searchQuery: string;
+  setSearchQuery: React.Dispatch<React.SetStateAction<string>>;
+}
+
+function Header({ searchQuery, setSearchQuery }: HeaderProps) {
   const inputRef = useRef<HTMLInputElement>(null);
 
   const handleClear = () => {
