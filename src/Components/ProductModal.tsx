@@ -16,8 +16,6 @@ function ProductModal({ product, setChosenItem }: ModalProps) {
 
   useEffect(() => {
     window.addEventListener("keydown", handleEscape);
-
-    // Очистка эффекта: удаляем слушатель при размонтировании
     return () => {
       window.removeEventListener("keydown", handleEscape);
     };
@@ -35,8 +33,8 @@ function ProductModal({ product, setChosenItem }: ModalProps) {
   }, []);
 
   return (
-    <div className="productModal">
-      <div className="modalContent">
+    <div className="productModal" onClick={() => setChosenItem(null)}>
+      <div className="modalContent" onClick={(e) => e.stopPropagation()}>
         <button className="exitButton" onClick={() => setChosenItem(null)}>
           <svg
             width="24"

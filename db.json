@@ -5,7 +5,7 @@
       "title": "Смарт-часы X100",
       "price": 7490,
       "category": "Гаджеты",
-      "image": "https://picsum.photos/300/200?random=1",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Часы",
       "description": "Смарт-часы X100 с водонепроницаемым корпусом, встроенным GPS, мониторингом сердечного ритма и 7-дневным временем работы без подзарядки. Удобный сенсорный экран и сменные ремешки."
     },
     {
@@ -13,7 +13,7 @@
       "title": "Беспроводные наушники AirSound Pro",
       "price": 5990,
       "category": "Аудио",
-      "image": "https://picsum.photos/300/200?random=2",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Наушники",
       "description": "Наушники AirSound Pro с активным шумоподавлением, до 30 часов автономной работы, поддержкой Bluetooth 5.0 и встроенным микрофоном для звонков и голосового управления."
     },
     {
@@ -21,7 +21,7 @@
       "title": "Фитнес-браслет FitTrack S2",
       "price": 3490,
       "category": "Гаджеты",
-      "image": "https://picsum.photos/300/200?random=3",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Фитнес-браслет",
       "description": "FitTrack S2 отслеживает шаги, пульс, сон, калории и уровень стресса. Лёгкий и водонепроницаемый дизайн, уведомления о звонках и сообщениях, совместим с iOS и Android."
     },
     {
@@ -29,7 +29,7 @@
       "title": "Портативная колонка BoomMini",
       "price": 4290,
       "category": "Аудио",
-      "image": "https://picsum.photos/300/200?random=4",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Колонка",
       "description": "Компактная Bluetooth-колонка BoomMini с мощным басом, 12 часами автономной работы и защитой от воды. Идеально подходит для путешествий, пикников и пляжа."
     },
     {
@@ -37,7 +37,7 @@
       "title": "Механическая клавиатура KeyMaster K87",
       "price": 8990,
       "category": "Компьютеры",
-      "image": "https://picsum.photos/300/200?random=5",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Клавиатура",
       "description": "Клавиатура KeyMaster K87 с RGB-подсветкой, синими механическими переключателями для комфортного набора текста и игр. Компактный 87-клавишный формат без цифрового блока."
     },
     {
@@ -45,7 +45,7 @@
       "title": "Игровая мышь Falcon X",
       "price": 3990,
       "category": "Компьютеры",
-      "image": "https://picsum.photos/300/200?random=6",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Мышь",
       "description": "Falcon X — игровая мышь с регулируемым DPI до 16000, программируемыми кнопками, RGB-подсветкой и эргономичным дизайном для долгих игровых сессий."
     },
     {
@@ -53,7 +53,7 @@
       "title": "Внешний SSD DriveGo 1TB",
       "price": 10990,
       "category": "Накопители",
-      "image": "https://picsum.photos/300/200?random=7",
+      "image": "https://dummyimage.com/300x200/000/fff&text=SSD",
       "description": "DriveGo 1TB — портативный SSD с высокой скоростью передачи до 1050 МБ/с, поддержкой USB-C, ударопрочным корпусом и лёгким весом, подходит для хранения и переноса больших файлов."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Монитор Vision 27Q",
       "price": 18990,
       "category": "Компьютеры",
-      "image": "https://picsum.photos/300/200?random=8",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Монитор",
       "description": "27-дюймовый QHD монитор Vision 27Q с частотой обновления 144 Гц и IPS-матрицей, обеспечивает яркие цвета, широкий угол обзора и плавную картинку в играх и работе."
     },
     {
@@ -69,7 +69,7 @@
       "title": "Умная лампа SmartLight A60",
       "price": 1990,
       "category": "Умный дом",
-      "image": "https://picsum.photos/300/200?random=9",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Лампа",
       "description": "SmartLight A60 — управляемая через приложение и голосовых ассистентов лампа, с возможностью настройки яркости и цвета, таймером включения/выключения и энергосбережением."
     },
     {
@@ -77,8 +77,728 @@
       "title": "Power Bank ChargeMax 20000",
       "price": 2590,
       "category": "Аксессуары",
-      "image": "https://picsum.photos/300/200?random=10",
+      "image": "https://dummyimage.com/300x200/000/fff&text=PowerBank",
       "description": "ChargeMax 20000 — внешний аккумулятор высокой ёмкости с быстрой зарядкой для смартфонов и планшетов, поддержкой двух устройств одновременно и компактным корпусом."
+    },
+    {
+      "id": 11,
+      "title": "Веб-камера ProCam 4K",
+      "price": 6490,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Веб-камера",
+      "description": "ProCam 4K — веб-камера с разрешением 4K, автофокусом, встроенным микрофоном и широким углом обзора для видеозвонков и стриминга."
+    },
+    {
+      "id": 12,
+      "title": "Беспроводная зарядка ChargePad",
+      "price": 1890,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Зарядка",
+      "description": "ChargePad — беспроводная зарядная панель с поддержкой быстрой зарядки, совместимая со всеми Qi-устройствами и компактным дизайном."
+    },
+    {
+      "id": 13,
+      "title": "Умные весы BodyScale Pro",
+      "price": 3290,
+      "category": "Гаджеты",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Весы",
+      "description": "BodyScale Pro анализируют вес, ИМТ, процент жира, мышечную массу и другие показатели. Синхронизация со смартфоном через Bluetooth."
+    },
+    {
+      "id": 14,
+      "title": "Наушники-вкладыши SoundBuds",
+      "price": 2490,
+      "category": "Аудио",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Вкладыши",
+      "description": "SoundBuds — компактные беспроводные наушники-вкладыши с качественным звуком, 8 часами работы и удобным кейсом для переноски."
+    },
+    {
+      "id": 15,
+      "title": "USB-концентратор HubMax 7-in-1",
+      "price": 3790,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=USB-хаб",
+      "description": "HubMax 7-in-1 — многопортовый концентратор с HDMI, USB 3.0, SD-картридером и USB-C для расширения возможностей ноутбука."
+    },
+    {
+      "id": 16,
+      "title": "Фитнес-мяч FitBall 65см",
+      "price": 1290,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Фитбол",
+      "description": "FitBall — гимнастический мяч для тренировок, йоги и пилатеса. Изготовлен из прочного ПВХ, выдерживает до 300 кг."
+    },
+    {
+      "id": 17,
+      "title": "Умный термостат ThermoSmart",
+      "price": 7990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Термостат",
+      "description": "ThermoSmart — программируемый термостат с управлением через приложение, голосовыми командами и энергосберегающими режимами."
+    },
+    {
+      "id": 18,
+      "title": "Механическая клавиатура MiniType 60%",
+      "price": 6790,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Мини-клавиатура",
+      "description": "Compact 60% клавиатура с механическими переключателями, RGB-подсветкой и программируемыми клавишами для геймеров и профессионалов."
+    },
+    {
+      "id": 19,
+      "title": "Портативный проектор MiniBeam",
+      "price": 15990,
+      "category": "Гаджеты",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Проектор",
+      "description": "MiniBeam — компактный LED-проектор с разрешением 1080p, поддержкой HDMI и беспроводным подключением для домашнего кинотеатра."
+    },
+    {
+      "id": 20,
+      "title": "Робот-пылесос CleanBot X5",
+      "price": 12990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Робот-пылесос",
+      "description": "CleanBot X5 с интеллектуальной навигацией, влажной уборкой, управлением через приложение и автоматической зарядкой."
+    },
+    {
+      "id": 21,
+      "title": "Игровой коврик SpeedPad XL",
+      "price": 1490,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Коврик",
+      "description": "SpeedPad XL — большой игровой коврик с гладкой поверхностью, антискользящей основой и RGB-подсветкой по краям."
+    },
+    {
+      "id": 22,
+      "title": "Беспроводной микрофон VoicePro",
+      "price": 4990,
+      "category": "Аудио",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Микрофон",
+      "description": "VoicePro — петличный беспроводной микрофон для записи видео, подкастов и стримов с радиусом действия до 50 метров."
+    },
+    {
+      "id": 23,
+      "title": "Умная розетка SmartPlug",
+      "price": 990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Розетка",
+      "description": "SmartPlug — управляемая розетка с таймером, удалённым управлением через приложение и мониторингом энергопотребления."
+    },
+    {
+      "id": 24,
+      "title": "Экшн-камера ActionCam 4K",
+      "price": 8990,
+      "category": "Гаджеты",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Экшн-камера",
+      "description": "ActionCam 4K с водонепроницаемым корпусом, стабилизацией изображения, Wi-Fi и креплением для экстремальных съёмок."
+    },
+    {
+      "id": 25,
+      "title": "Подставка для ноутбука ErgoStand",
+      "price": 2190,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Подставка",
+      "description": "ErgoStand — эргономичная подставка с регулируемой высотой, алюминиевым корпусом и охлаждением для ноутбуков до 17 дюймов."
+    },
+    {
+      "id": 26,
+      "title": "Беговая дорожка RunMaster T100",
+      "price": 34990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Беговая+дорожка",
+      "description": "RunMaster T100 с мотором 2.5 л.с., скоростью до 14 км/ч, 12 программами тренировок и складной конструкцией."
+    },
+    {
+      "id": 27,
+      "title": "Умный дверной замок LockSmart",
+      "price": 9990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Замок",
+      "description": "LockSmart — биометрический замок с отпечатком пальца, PIN-кодом, ключом и управлением через приложение."
+    },
+    {
+      "id": 28,
+      "title": "Графический планшет DrawPad M",
+      "price": 5490,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Планшет",
+      "description": "DrawPad M — цифровой планшет для рисования с пером без батареи, 8192 уровнями нажатия и совместимостью с Windows/Mac."
+    },
+    {
+      "id": 29,
+      "title": "Велотренажёр CycleFit Pro",
+      "price": 28990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Велотренажёр",
+      "description": "CycleFit Pro с магнитной системой сопротивления, 16 уровнями нагрузки, LCD-дисплеем и компактными размерами."
+    },
+    {
+      "id": 30,
+      "title": "Кольцевая лампа RingLight 18\"",
+      "price": 3490,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кольцевая+лампа",
+      "description": "RingLight 18\" — светодиодная лампа для фото и видео с регулируемой яркостью, цветовой температурой и штативом в комплекте."
+    },
+    {
+      "id": 31,
+      "title": "Умный увлажнитель AirMist Pro",
+      "price": 4590,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Увлажнитель",
+      "description": "AirMist Pro с ультразвуковым распылением, контролем влажности, таймером и управлением через смартфон."
+    },
+    {
+      "id": 32,
+      "title": "Игровое кресло GameChair Elite",
+      "price": 18990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кресло",
+      "description": "GameChair Elite — эргономичное кресло с регулируемой спинкой, подлокотниками, поясничной поддержкой и прочным основанием."
+    },
+    {
+      "id": 33,
+      "title": "Цифровой диктофон VoiceRecord X",
+      "price": 3290,
+      "category": "Гаджеты",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Диктофон",
+      "description": "VoiceRecord X с качественной записью, встроенным микрофоном, 16 ГБ памяти и функцией шумоподавления."
+    },
+    {
+      "id": 34,
+      "title": "Гантели разборные PowerWeight 20кг",
+      "price": 4990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Гантели",
+      "description": "PowerWeight — набор разборных гантелей с регулируемым весом от 2 до 20 кг, удобной рукояткой и компактным хранением."
+    },
+    {
+      "id": 35,
+      "title": "Умный видеоглазок DoorView HD",
+      "price": 6990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Видеоглазок",
+      "description": "DoorView HD — видеоглазок с камерой 1080p, датчиком движения, ночным видением и оповещениями на смартфон."
+    },
+    {
+      "id": 36,
+      "title": "Сетевой фильтр SurgePro 8",
+      "price": 2490,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Сетевой+фильтр",
+      "description": "SurgePro 8 — фильтр с 8 розетками, защитой от скачков напряжения, USB-портами и длинным кабелем."
+    },
+    {
+      "id": 37,
+      "title": "Планшет графический ArtTab Pro",
+      "price": 24990,
+      "category": "Гаджеты",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Графический+планшет",
+      "description": "ArtTab Pro — планшет для цифровых художников с экраном 10.5\", пером в комплекте и поддержкой профессиональных приложений."
+    },
+    {
+      "id": 38,
+      "title": "Степпер домашний StepMini",
+      "price": 3990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Степпер",
+      "description": "StepMini — компактный тренажёр для кардиотренировок с регулируемой нагрузкой, LCD-дисплеем и противоскользящими педалями."
+    },
+    {
+      "id": 39,
+      "title": "Умный датчик протечки WaterGuard",
+      "price": 1790,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+протечки",
+      "description": "WaterGuard — беспроводной датчик с мгновенным оповещением, длительным сроком работы батареи и компактным дизайном."
+    },
+    {
+      "id": 40,
+      "title": "Кабель USB-C Premium 2м",
+      "price": 890,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кабель+USB-C",
+      "description": "Premium USB-C — прочный кабель с поддержкой быстрой зарядки 100W, передачи данных и нейлоновой оплёткой."
+    },
+    {
+      "id": 41,
+      "title": "Турник настенный PullUp Pro",
+      "price": 2790,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Турник",
+      "description": "PullUp Pro — надёжный турник с несколькими хватами, усиленной конструкцией и нагрузкой до 150 кг."
+    },
+    {
+      "id": 42,
+      "title": "Умный датчик дыма SmokeAlert",
+      "price": 2490,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+дыма",
+      "description": "SmokeAlert — беспроводной извещатель с громкой сиреной, push-уведомлениями и 10-летним сроком службы батареи."
+    },
+    {
+      "id": 43,
+      "title": "Док-станция USB-C DockHub Pro",
+      "price": 8990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Док-станция",
+      "description": "DockHub Pro — универсальная станция с двумя HDMI, Ethernet, USB 3.0, SD-картридером и зарядкой 100W."
+    },
+    {
+      "id": 44,
+      "title": "Эспандеры фитнес-ленты Set5",
+      "price": 1190,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Фитнес-ленты",
+      "description": "Set5 — набор из 5 эспандеров разной жёсткости для тренировок, растяжки и реабилитации с сумкой для хранения."
+    },
+    {
+      "id": 45,
+      "title": "Умный выключатель LightSwitch",
+      "price": 1590,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Выключатель",
+      "description": "LightSwitch — сенсорный выключатель с управлением через приложение, голосовыми командами и таймером."
+    },
+    {
+      "id": 46,
+      "title": "Чехол для ноутбука SleeveCase 15\"",
+      "price": 1290,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Чехол",
+      "description": "SleeveCase — защитный чехол из водоотталкивающей ткани с мягким покрытием и дополнительным карманом."
+    },
+    {
+      "id": 47,
+      "title": "Скакалка скоростная SpeedRope",
+      "price": 890,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Скакалка",
+      "description": "SpeedRope — скоростная скакалка с подшипниками, регулируемой длиной и эргономичными рукоятками для кроссфита."
+    },
+    {
+      "id": 48,
+      "title": "Умный датчик открытия DoorSense",
+      "price": 1390,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+открытия",
+      "description": "DoorSense — компактный датчик дверей и окон с мгновенным оповещением и длительной работой от батареи."
+    },
+    {
+      "id": 49,
+      "title": "Охлаждающая подставка CoolPad RGB",
+      "price": 2790,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Охлаждение",
+      "description": "CoolPad RGB — подставка с 5 вентиляторами, регулируемой скоростью, подсветкой и поддержкой ноутбуков до 17\"."
+    },
+    {
+      "id": 50,
+      "title": "Коврик для йоги YogaMat Pro",
+      "price": 1990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Коврик+для+йоги",
+      "description": "YogaMat Pro — нескользящий коврик из эко-материалов толщиной 6мм с ремнём для переноски."
+    },
+    {
+      "id": 51,
+      "title": "Умный очиститель воздуха PureAir Max",
+      "price": 11990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Очиститель+воздуха",
+      "description": "PureAir Max с HEPA-фильтром, ионизацией, контролем качества воздуха и управлением через приложение."
+    },
+    {
+      "id": 52,
+      "title": "Хаб USB 3.0 4-Port",
+      "price": 1190,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=USB-хаб+4",
+      "description": "Компактный 4-портовый хаб с высокой скоростью передачи данных, совместимостью с USB 2.0 и plug-and-play."
+    },
+    {
+      "id": 53,
+      "title": "Ролик для пресса AbRoller",
+      "price": 790,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Ролик+для+пресса",
+      "description": "AbRoller — тренажёр с двойными колёсами, антискользящими ручками и ковриком для коленей в комплекте."
+    },
+    {
+      "id": 54,
+      "title": "Умный пульт UniversalRemote",
+      "price": 2990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Пульт",
+      "description": "UniversalRemote — универсальный ИК-пульт с управлением через смартфон, поддержкой голосовых ассистентов и сценариями."
+    },
+    {
+      "id": 55,
+      "title": "Адаптер питания 65W GaN",
+      "price": 2490,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Адаптер+65W",
+      "description": "Компактное зарядное устройство с технологией GaN, поддержкой PD 3.0 и универсальной совместимостью."
+    },
+    {
+      "id": 56,
+      "title": "Теннисный стол HomePing Pong",
+      "price": 16990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Пинг-понг",
+      "description": "HomePing Pong — складной стол для настольного тенниса с сеткой, ракетками и мячами в комплекте."
+    },
+    {
+      "id": 57,
+      "title": "Умный датчик температуры ThermoSense",
+      "price": 1490,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+температуры",
+      "description": "ThermoSense — беспроводной датчик с точными измерениями, историей данных и интеграцией в умный дом."
+    },
+    {
+      "id": 58,
+      "title": "Кардридер USB 3.0 MultiCard",
+      "price": 690,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кардридер",
+      "description": "MultiCard — универсальный картридер для SD, microSD, CF и других форматов с высокой скоростью чтения."
+    },
+    {
+      "id": 59,
+      "title": "Массажный ролик FoamRoller",
+      "price": 1490,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Массажный+ролик",
+      "description": "FoamRoller — ролик для миофасциального релиза с текстурированной поверхностью для глубокого массажа мышц."
+    },
+    {
+      "id": 60,
+      "title": "Умный датчик влажности HygroSense",
+      "price": 1390,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+влажности",
+      "description": "HygroSense — точный датчик влажности с уведомлениями, историей показаний и длительной работой от батареи."
+    },
+    {
+      "id": 61,
+      "title": "Bluetooth-адаптер USB 5.0",
+      "price": 790,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Bluetooth",
+      "description": "Компактный адаптер для добавления Bluetooth 5.0 к ПК, поддержка аудио, клавиатур, мышей и геймпадов."
+    },
+    {
+      "id": 62,
+      "title": "Балансировочная доска BalanceBoard",
+      "price": 2190,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Баланс-доска",
+      "description": "BalanceBoard — тренажёр для развития координации, укрепления мышц кора и реабилитации после травм."
+    },
+    {
+      "id": 63,
+      "title": "Умный датчик качества воздуха AirQuality",
+      "price": 3490,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Качество+воздуха",
+      "description": "AirQuality — мониторинг CO2, температуры, влажности с уведомлениями и интеграцией с другими устройствами."
+    },
+    {
+      "id": 64,
+      "title": "Переходник HDMI-DisplayPort",
+      "price": 990,
+      "category": "Аксессуары",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Переходник",
+      "description": "Активный переходник для подключения монитора DisplayPort к источнику HDMI с поддержкой 1080p 60Hz."
+    },
+    {
+      "id": 65,
+      "title": "Платформа для отжиманий PushUp Board",
+      "price": 1690,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Платформа+отжимания",
+      "description": "PushUp Board — многофункциональная доска с цветовой маркировкой для проработки разных групп мышц."
+    },
+    {
+      "id": 66,
+      "title": "Умный датчик вибрации VibeSense",
+      "price": 1890,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+вибрации",
+      "description": "VibeSense — детектор вибрации с настраиваемой чувствительностью, уведомлениями и длительной работой."
+    },
+    {
+      "id": 67,
+      "title": "Кронштейн для монитора MonitorArm",
+      "price": 4490,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кронштейн",
+      "description": "MonitorArm — регулируемый кронштейн для мониторов 13-32\" с газлифтом, креплением к столу и кабель-менеджментом."
+    },
+    {
+      "id": 68,
+      "title": "Гиря чугунная KettleBell 16кг",
+      "price": 2990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Гиря",
+      "description": "KettleBell — классическая гиря с эргономичной ручкой, ровным дном и покрытием от коррозии."
+    },
+    {
+      "id": 69,
+      "title": "Умный датчик утечки газа GasAlert",
+      "price": 2790,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+газа",
+      "description": "GasAlert — детектор природного газа и пропана с громкой сиреной, световой индикацией и push-уведомлениями."
+    },
+    {
+      "id": 70,
+      "title": "Мини-ПК StickPC Intel N100",
+      "price": 14990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Мини-ПК",
+      "description": "StickPC — компактный компьютер с Intel N100, 8 ГБ RAM, 128 ГБ SSD, Wi-Fi 6 и поддержкой 4K вывода."
+    },
+    {
+      "id": 71,
+      "title": "Тяжёлая атлетная скамья BenchPro",
+      "price": 12990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Скамья",
+      "description": "BenchPro — регулируемая скамья с несколькими углами наклона, прочной рамой и нагрузкой до 300 кг."
+    },
+    {
+      "id": 72,
+      "title": "Умный датчик освещённости LightSense",
+      "price": 1290,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+света",
+      "description": "LightSense — измерение уровня освещённости с автоматизацией освещения, уведомлениями и экономией энергии."
+    },
+    {
+      "id": 73,
+      "title": "Внешняя звуковая карта AudioDAC",
+      "price": 2790,
+      "category": "Аудио",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Звуковая+карта",
+      "description": "AudioDAC — USB-адаптер с Hi-Res аудио, выходом на наушники, микрофонным входом и поддержкой студийных приложений."
+    },
+    {
+      "id": 74,
+      "title": "Штанга олимпийская BarBell Pro",
+      "price": 8990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Штанга",
+      "description": "BarBell Pro — олимпийская штанга 220 см, 20 кг с подшипниками, насечками и нагрузкой до 500 кг."
+    },
+    {
+      "id": 75,
+      "title": "Умный контроллер умного дома HubMax",
+      "price": 7990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Контроллер",
+      "description": "HubMax — центральный хаб с поддержкой Zigbee, Z-Wave, Wi-Fi, голосовыми ассистентами и локальной автоматизацией."
+    },
+    {
+      "id": 76,
+      "title": "SSD M.2 NVMe 1TB SpeedDrive",
+      "price": 7490,
+      "category": "Накопители",
+      "image": "https://dummyimage.com/300x200/000/fff&text=SSD+M.2",
+      "description": "SpeedDrive — высокоскоростной накопитель с чтением до 3500 МБ/с, записью до 3000 МБ/с и 5-летней гарантией."
+    },
+    {
+      "id": 77,
+      "title": "Набор эспандеров PowerBands",
+      "price": 1590,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Эспандеры",
+      "description": "PowerBands — комплект тканевых эспандеров с разной сопротивляемостью, сумкой и руководством по упражнениям."
+    },
+    {
+      "id": 78,
+      "title": "Умный датчик присутствия MotionSense",
+      "price": 1990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+движения",
+      "description": "MotionSense — PIR-датчик с широким углом обзора, ночным режимом и интеграцией в сценарии освещения."
+    },
+    {
+      "id": 79,
+      "title": "Оперативная память DDR4 16GB 3200MHz",
+      "price": 4990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=ОЗУ+DDR4",
+      "description": "Модуль памяти с радиатором, частотой 3200 МГц, таймингами CL16 и поддержкой XMP для разгона."
+    },
+    {
+      "id": 80,
+      "title": "Тренажёр для скручивания AbBench",
+      "price": 5490,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Тренажёр+пресса",
+      "description": "AbBench — скамья для пресса с регулировкой угла, мягкими валиками и прочной стальной рамой."
+    },
+    {
+      "id": 81,
+      "title": "Умный датчик открытия окна WindowSense",
+      "price": 1490,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+окна",
+      "description": "WindowSense — миниатюрный датчик с магнитным контактом, длительной работой батареи и мгновенными уведомлениями."
+    },
+    {
+      "id": 82,
+      "title": "Видеокарта GeForce RTX 4060 8GB",
+      "price": 34990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Видеокарта",
+      "description": "RTX 4060 с архитектурой Ada Lovelace, трассировкой лучей, DLSS 3, 8 ГБ GDDR6 и эффективным охлаждением."
+    },
+    {
+      "id": 83,
+      "title": "Боксёрская груша PunchBag Pro",
+      "price": 6990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Боксёрская+груша",
+      "description": "PunchBag Pro — груша 120 см с наполнителем, цепями для подвеса и прочным покрытием из искусственной кожи."
+    },
+    {
+      "id": 84,
+      "title": "Умный датчик протечки воды AquaStop",
+      "price": 1690,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+воды",
+      "description": "AquaStop — проводной датчик с быстрым срабатыванием, интеграцией в умный дом и компактным корпусом."
+    },
+    {
+      "id": 85,
+      "title": "Процессор Intel Core i5-13400F",
+      "price": 18990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Процессор",
+      "description": "10-ядерный процессор с частотой до 4.6 ГГц, кэшем 20 МБ и поддержкой DDR4/DDR5 для игр и работы."
+    },
+    {
+      "id": 86,
+      "title": "Набор для единоборств FightGear",
+      "price": 7990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Единоборства",
+      "description": "FightGear — комплект с перчатками, бинтами, шлемом и каппой для бокса, ММА и кикбоксинга."
+    },
+    {
+      "id": 87,
+      "title": "Умный контроллер полива WaterTimer",
+      "price": 4990,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Полив",
+      "description": "WaterTimer — автоматический таймер полива с управлением через приложение, датчиком дождя и экономией воды."
+    },
+    {
+      "id": 88,
+      "title": "Блок питания 750W Gold Modular",
+      "price": 8990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Блок+питания",
+      "description": "Модульный БП с сертификатом 80+ Gold, тихим вентилятором, защитой от перегрузок и 10-летней гарантией."
+    },
+    {
+      "id": 89,
+      "title": "Набор для воркаута StreetFit",
+      "price": 4490,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Воркаут",
+      "description": "StreetFit — комплект с петлями TRX, эспандерами, перчатками и сумкой для уличных тренировок."
+    },
+    {
+      "id": 90,
+      "title": "Умный датчик уровня воды LevelSense",
+      "price": 2190,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+уровня",
+      "description": "LevelSense — беспроводной датчик уровня воды в резервуарах с уведомлениями и историей данных."
+    },
+    {
+      "id": 91,
+      "title": "Материнская плата B760M ProWiFi",
+      "price": 14990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Материнская+плата",
+      "description": "Плата mATX с Wi-Fi 6, Bluetooth 5.3, PCIe 4.0, DDR5, M.2 слотами и RGB-подсветкой для процессоров Intel 13-го поколения."
+    },
+    {
+      "id": 92,
+      "title": "Комплект для пляжного волейбола VolleySet",
+      "price": 3490,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Волейбол",
+      "description": "VolleySet — мяч, сетка с стойками, насос и сумка для игры на пляже или газоне."
+    },
+    {
+      "id": 93,
+      "title": "Умный датчик открытия гаража GarageSense",
+      "price": 1890,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+гаража",
+      "description": "GarageSense — датчик положения ворот с уведомлениями, историей и интеграцией в сценарии безопасности."
+    },
+    {
+      "id": 94,
+      "title": "Корпус ATX MidTower RGB",
+      "price": 6490,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Корпус",
+      "description": "Корпус с закалённым стеклом, 4 RGB-вентиляторами, поддержкой ATX, M-ATX, ITX и местом для СЖО."
+    },
+    {
+      "id": 95,
+      "title": "Набор для бадминтона ShuttlePro",
+      "price": 2490,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Бадминтон",
+      "description": "ShuttlePro — 4 ракетки, воланы, сетка с сумкой для игры в помещении и на улице."
+    },
+    {
+      "id": 96,
+      "title": "Умный датчик открытия калитки GateSense",
+      "price": 1790,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+калитки",
+      "description": "GateSense — уличный датчик с защитой от влаги, длительной работой батареи и мгновенными оповещениями."
+    },
+    {
+      "id": 97,
+      "title": "Кулер для процессора AirCooler Pro",
+      "price": 3990,
+      "category": "Компьютеры",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Кулер",
+      "description": "Башенный кулер с 5 тепловыми трубками, 120мм вентилятором, RGB-подсветкой и поддержкой TDP до 220W."
+    },
+    {
+      "id": 98,
+      "title": "Набор для настольного тенниса PingPong Set",
+      "price": 1990,
+      "category": "Спорт",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Настольный+теннис",
+      "description": "PingPong Set — 4 ракетки, 6 мячей, сетка с креплением и сумка для семейных игр."
+    },
+    {
+      "id": 99,
+      "title": "Умный датчик открытия почты MailSense",
+      "price": 1590,
+      "category": "Умный дом",
+      "image": "https://dummyimage.com/300x200/000/fff&text=Датчик+почты",
+      "description": "MailSense — уведомление о новой почте в почтовом ящике с защитой от погоды и длительной работой."
+    },
+    {
+      "id": 100,
+      "title": "Твердотельный накопитель SATA 2TB DataSafe",
+      "price": 12990,
+      "category": "Накопители",
+      "image": "https://dummyimage.com/300x200/000/fff&text=SSD+2TB",
+      "description": "DataSafe 2TB — надёжный SATA SSD со скоростью 550/520 МБ/с, 5-летней гарантией и ударопрочным корпусом."
     }
   ]
 }
