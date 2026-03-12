@@ -38,3 +38,40 @@
 .productCard .priceTag p {
   font-weight: 500px;
 }
+
+@media (max-width: 768px) {
+  .productCard img {
+    height: 200px;
+  }
+
+  .productCard h4 {
+    font-size: 14px;
+    min-height: 40px;
+  }
+
+  .productCard .priceTag {
+    max-width: 80px;
+    padding: 4px 8px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .productCard img {
+    height: 150px;
+    border-radius: 15px;
+  }
+
+  .productCard h4 {
+    font-size: 12px;
+    min-height: 35px;
+    margin-top: 8px;
+  }
+
+  .productCard .priceTag {
+    max-width: 70px;
+    padding: 3px 6px;
+    font-size: 11px;
+    margin-top: 8px;
+  }
+}

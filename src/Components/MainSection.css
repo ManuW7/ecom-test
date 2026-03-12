@@ -13,3 +13,29 @@ main .productsContainer {
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 30px;
 }
+
+@media (max-width: 768px) {
+  main {
+    width: 85%;
+    padding: 15px;
+  }
+
+  main .productsContainer {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  main {
+    width: 90%;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 15px;
+  }
+
+  main .productsContainer {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+  }
+}
