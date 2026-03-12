@@ -1,73 +1,65 @@
-# React + TypeScript + Vite
+# Product Catalog Test Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Небольшое фронтенд-приложение для отображения каталога товаров с поиском и модальным окном с подробной информацией о продукте.
 
-Currently, two official plugins are available:
+## Функциональность
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Отображение списка товаров
+- Поиск товаров по названию (фильтрация на лету)
+- Модальное окно с подробной информацией о товаре
+- Закрытие модального окна:
+  - по кнопке
+  - по нажатию вне окна
+  - по клавише Escape
+- Адаптивная верстка (desktop / tablet / mobile)
 
-## React Compiler
+## Технологии
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- TypeScript
+- Vite
+- CSS
 
-## Expanding the ESLint configuration
+## Запуск проекта
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+1. Установить зависимости
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+npm install
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+2. Запустить имитированный API сервер
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+npm run server
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+3. Запустить фронтенд
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+npm run dev
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+После запуска приложение будет доступно по адресу:
+
+http://localhost:5173
+
+API сервер:
+
+http://localhost:3001/products
+
+## API
+
+Данные о продуктах получаются из имитированного endpoint через json-server.
+
+Пример структуры продукта:
+
+{
+id: number,
+title: string,
+price: number,
+category: string,
+image: string,
+description: string
+}
+
+## Особенности реализации
+
+- Фильтрация товаров выполняется на стороне клиента
+- При открытии модального окна отключается скролл страницы
+- При закрытии модального окна состояние страницы восстанавливается
+- Используется controlled input для строки поиска

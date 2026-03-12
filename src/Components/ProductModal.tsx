@@ -57,6 +57,7 @@ function ProductModal({ product, setChosenItem }: ModalProps) {
           <div>
             <h3>{product.title}</h3>
             <p>{product.description}</p>
+            <p className="price">{product.price} ₽</p>
           </div>
 
           <button className="buyButton">Купить</button>
